@@ -1,5 +1,6 @@
 # ML-Mid-Project
-Salary Prediction using Machine Learning
+
+Salary Prediction using Machine Learning:
 
 This project focuses on predicting salaries based on various factors such as experience, age, education, and job role using machine learning algorithms.
 
